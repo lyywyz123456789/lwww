@@ -11,7 +11,7 @@ disable_share = 'false'
 ###  吃草莓容易感染[病毒](https://cn.bing.com/search?q=%E7%97%85%E6%AF%92&form=ANNTH1&refig=6582bf158fe54050b1bb23cbb1e861cc&pc=W091)?
 　 草莓本身并不含有诺如病毒。食用草莓感染诺如病毒的原因是由于含有病毒的污染物，比如被感染的生物或含病毒的污水等，附着在草莓上。如果没有洗干净直接吃就可能感染。另外相较于蔬菜水果，食用动物感染诺如病毒的可能性要大得多。水果寒凉，坐月子不能吃?水果能够比较高效地提供维生素、矿物质和膳食纤维。坐月子不仅能吃水果，而且应该主动去吃水果。但不要贪多，像血糖偏高或体质较差的产妇要少吃一些。
 
- ![markdown](https://tse3-mm.cn.bing.net/th/id/OIP-C.m4F0na5c4h08XczFz4OkpgHaFk?rs=1&pid=ImgDetMain)
+<img src="https://ts1.cn.mm.bing.net/th/id/R-C.9b81749dae5ce21d3c5dccc5cf83a4a6?rik=gAnUqQpkGJG8Sg&riu=http%3a%2f%2fbpic.588ku.com%2felement_origin_min_pic%2f17%2f01%2f14%2fe253a89c209078336ef956846485b02b.jpg&ehk=KBH8JvaAvBH8eclVZzBRvUXviiEhm5SAiIOndWcHf40%3d&risl=&pid=ImgRaw&r=0" width="700" height="350">
 
 ###   水果表皮打蜡不能吃?
 　　打蜡是水果采摘后商品化的一个环节，是国际和国内允许使用的果品保鲜方法。如果是食用级的果蜡，一般是天然来源，是无毒无害的，可以放心。工业用蜡有颜色，用纸巾使劲擦，纸巾会被染色。如果是颜色特别鲜艳，仅用手擦就会掉色的水果，最好不要购买。饭后适宜马上吃水果?水果富含大量膳食纤维，吃饭后如果立即吃水果，可能会有一点促进消化的作用。但是本来已经吃得很饱了，如果再吃水果，则有可能会出现胀气、泛酸以及便秘等情况。摄入水果的时间最好安排在饭后一小时或饭前一小时。

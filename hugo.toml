@@ -3,9 +3,9 @@ languageCode = 'en-us'
 title = '一只小学霸'
 theme = 'ananke'
 publishDir = "docs"
+canonifyurls = true
 [markup]
 defaultMarkdownHandler = "goldmark"
 [markup. goldmark]
 [markup. goldmark. renderer]
 unsafe = true
-canonifyurls = true
